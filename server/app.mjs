@@ -1,4 +1,4 @@
-import expose from './expose';
+import expose from './expose.js';
 import express from 'express';
 import path from 'path';
 const {__dirname, require} = expose;
